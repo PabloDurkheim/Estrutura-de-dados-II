@@ -1,6 +1,6 @@
 # Certificados de Estrutura de Dados II
 
-## Ao longo da disciplina, utilizaremos a plataforma [DataQuest.IO](https://www.dataquest.io/) para obtenção de certificados, por aqui ficará todo o meu trajeto nesta disciplina.
+### Ao longo da disciplina, utilizaremos a plataforma [DataQuest.IO](https://www.dataquest.io/) para obtenção de certificados, por aqui ficará todo o meu trajeto nesta disciplina.
 
 ### 1ª semana:
   
