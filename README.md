@@ -10,3 +10,8 @@
 ### 2ª semana:
   
   * Introduction to Python for Data Engineering: Part II: <https://app.dataquest.io/view_cert/AHTU35RA0K5SAZA388VT>
+
+### 3ª semana:
+  
+  * Link da resolução dos desafios da semana 3: [notebook](https://github.com/PabloDurkheim/Estrutura-de-dados-II/blob/main/Semana_3/Code_Interview_Linked_Queue_Stacks.ipynb)
+  * Vídeo explicativo: <>
