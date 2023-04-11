@@ -14,4 +14,4 @@
 ### 3ª semana:
   
   * Link da resolução dos desafios da semana 3: [notebook](https://github.com/PabloDurkheim/Estrutura-de-dados-II/blob/main/Semana_3/Code_Interview_Linked_Queue_Stacks.ipynb)
-  * Vídeo explicativo: <>
+  * Vídeo explicativo: <https://www.loom.com/share/e8c940fd766b4578b5c103c1ad0c3561>
