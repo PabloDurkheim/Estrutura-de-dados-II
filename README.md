@@ -18,4 +18,4 @@
 
 ### 4ª semana:
   * Link da resolução dos desafios da semana 4: [notebook](https://github.com/PabloDurkheim/Estrutura-de-dados-II/blob/main/Semana_4/Semana4.ipynb)
-  * Video explicativo: <>
+  * Video explicativo: <https://www.loom.com/share/6e8de40974954959bed0d0f94b7302c1>
