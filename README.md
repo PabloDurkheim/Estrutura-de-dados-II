@@ -22,5 +22,5 @@
   
 ### 6ª Semana:
   * Link da resolução do desafio da semana 6: [notebook](https://github.com/PabloDurkheim/Estrutura-de-dados-II/blob/main/Semana_6/Semana6.ipynb)
-  * Vídeo explicativo: <>
+  * Vídeo explicativo: <https://www.loom.com/share/f30156e1da9b4bc199677ae35fb44fa4>
   *
