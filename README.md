@@ -37,4 +37,4 @@
   * Link da resolução da semana 09: [notebook](https://github.com/PabloDurkheim/Estrutura-de-dados-II/blob/main/Semana_09/Proj_ED2_4_pontos.ipynb)
   * [Figuras](https://github.com/PabloDurkheim/Estrutura-de-dados-II/tree/main/Semana_09/Imagens)
   * Descobertas: está descrito no próprio [notebook](https://github.com/PabloDurkheim/Estrutura-de-dados-II/blob/main/Semana_09/Proj_ED2_4_pontos.ipynb)
-  * Vídeo explicativo: <>
+  * Vídeo explicativo: <https://www.loom.com/share/89a17e5791a94c3b9397ba8638b4fc96>
