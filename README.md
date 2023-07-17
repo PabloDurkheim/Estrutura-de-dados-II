@@ -38,3 +38,14 @@
   * [Figuras](https://github.com/PabloDurkheim/Estrutura-de-dados-II/tree/main/Semana_09/Imagens)
   * Descobertas: está descrito no próprio [notebook](https://github.com/PabloDurkheim/Estrutura-de-dados-II/blob/main/Semana_09/Proj_ED2_4_pontos.ipynb)
   * Vídeo explicativo: <https://www.loom.com/share/89a17e5791a94c3b9397ba8638b4fc96>
+
+### 12ª Semana:
+
+  Alunos:
+  - José Augusto Agripino de Oliveira
+  - Marta Maira Brito Barbosa
+  - Pablo Durkheim Fernandes do Nascimento
+
+  Sobre o projeto: gerar uma rede (grafo) dirigida a partir dos links das páginas do Wikipedia, utilizando NetworkX, realizar tratamentos de dados e analisar o resultados.
+  *Link da resolução da semana 12: [notebook]()
+  *Vídeo explicativo: <https://www.loom.com/share/054b3bc0b2d34cdba6724bd15bbc5ad8?sid=f8da0b9e-9a88-4c2d-81f4-c2b0bed4cf44>
