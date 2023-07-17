@@ -48,5 +48,5 @@
 
   Sobre o projeto: gerar uma rede (grafo) dirigida a partir dos links das páginas do Wikipedia, utilizando NetworkX, realizar tratamentos de dados e analisar o resultados.
   
-  *Link da resolução da semana 12: [notebook](https://github.com/PabloDurkheim/Estrutura-de-dados-II/blob/main/semana_12/U2_Trabalho_3.ipynb)
-  *Vídeo explicativo: <https://www.loom.com/share/054b3bc0b2d34cdba6724bd15bbc5ad8?sid=f8da0b9e-9a88-4c2d-81f4-c2b0bed4cf44>
+  * Link da resolução da semana 12: [notebook](https://github.com/PabloDurkheim/Estrutura-de-dados-II/blob/main/semana_12/U2_Trabalho_3.ipynb)
+  * Vídeo explicativo: <https://www.loom.com/share/054b3bc0b2d34cdba6724bd15bbc5ad8?sid=f8da0b9e-9a88-4c2d-81f4-c2b0bed4cf44>
